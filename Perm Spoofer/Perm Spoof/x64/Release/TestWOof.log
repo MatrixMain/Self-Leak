@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Das Zwischenverzeichnis (x64\Release\) enthält freigegebene Dateien aus einem anderen Projekt (TestWOof.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  Encrypt.h
+  Free Spoof.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 357 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  TestWOof.vcxproj -> C:\Users\mario\Desktop\Free Spoofer\x64\Release\Free Spoof.exe

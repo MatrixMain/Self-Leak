@@ -1,0 +1,20 @@
+﻿  Encrypt.h
+  TestWOof.cpp
+C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(107,5): error C3861: 'Console': identifier not found
+C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(139,9): error C2664: 'BOOL ShowWindow(HWND,int)': cannot convert argument 1 from 'void (__cdecl *)(void)' to 'HWND'
+  C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(139,20):
+  There is no context in which this conversion is possible
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4512,1):
+  see declaration of 'ShowWindow'
+  C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(139,9):
+  while trying to match the argument list '(overloaded-function, int)'
+  
+C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(157,9): error C2664: 'BOOL ShowWindow(HWND,int)': cannot convert argument 1 from 'void (__cdecl *)(void)' to 'HWND'
+  C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(157,20):
+  There is no context in which this conversion is possible
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4512,1):
+  see declaration of 'ShowWindow'
+  C:\Users\j\source\repos\TestWOof\TestWOof\TestWOof.cpp(157,9):
+  while trying to match the argument list '(overloaded-function, int)'
+  
+  Generating Code...
